@@ -15,8 +15,8 @@ source:
   provider: GitHub
   # Additional properties that further specify the location of the artifacts.
   properties:
-    branch: master
-    repository: https://github.com/manikcloud/copilot-demo
+    branch: main
+    repository: https://github.com/Bandishanmukha/copilot-demo
     # Optional: specify the name of an existing CodeStar Connections connection.
     # connection_name: a-connection
 
