@@ -3,3 +3,8 @@ JWT_SECRET:
   
 RECAPTCHA_KEY:
   dev: recaptcha_key
+
+DB_HOST:
+  dev: host_name
+DB_PASSWORD:
+  dev: password
