@@ -1,0 +1,5 @@
+JWT_SECRET:
+  dev: jwt_secret
+  
+RECAPTCHA_KEY:
+  dev: recaptcha_key
